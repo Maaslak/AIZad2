@@ -1,0 +1,23 @@
+#footer {
+  left: 0;
+  text-align: center;
+  width: 100%;
+  border-top: 1px solid;
+  padding: 30px;
+  box-sizing: border-box;
+  background-color: #e0e4cc; }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  margin: 0; }
+
+html {
+  height: 100%; }
+
+#content {
+  flex: 1;
+  padding: 20px; }
+
+/*# sourceMappingURL=:style.css.map */
